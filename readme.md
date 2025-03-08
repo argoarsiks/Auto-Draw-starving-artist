@@ -21,4 +21,4 @@ pip install -r requirements.txt
 *Run "run.bat"*
 
 ## Example
-https://www.youtube.com/watch?v=3SETvlAZj64&ab_channel=ARGOARS
+<iframe width="1903" height="795" src="https://www.youtube.com/embed/3SETvlAZj64" title="AUTO DRAW FOR STARVING ARTIST | Python script" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
