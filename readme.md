@@ -19,3 +19,6 @@ venv\Scripts\activate.bat
 pip install -r requirements.txt
 ```
 *Run "run.bat"*
+
+## Example
+https://github.com/argoarsiks/Auto-Draw-starving-artist
