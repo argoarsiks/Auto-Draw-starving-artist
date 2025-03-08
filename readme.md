@@ -21,4 +21,4 @@ pip install -r requirements.txt
 *Run "run.bat"*
 
 ## Example
-https://github.com/argoarsiks/Auto-Draw-starving-artist
+https://www.youtube.com/watch?v=3SETvlAZj64&ab_channel=ARGOARS
