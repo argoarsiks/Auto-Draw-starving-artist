@@ -15,6 +15,7 @@
 git clone https://github.com/argoarsiks/Auto-Draw-starving-artist.git
 cd Auto-Draw-starving-artist
 python -m venv venv
+venv/Scripts/activate
 pip install -r requirements.txt
 ```
 Run "run.bat"
